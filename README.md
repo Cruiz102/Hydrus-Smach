@@ -9,14 +9,23 @@ The official repository of the Hydrus Smach State Machines.
 ## Installation steps:
 - Install Rows Melodic
 - Install Smach Viewer
+- Install MoveIt
 
-## Installation for WSL:
+## Optional for WSL:
  - Install MobaXterm for using the smach viewer
 
 ## Docker:
 
 
 # Hydrus's Sensor Topics and Messages:
+## Camera:
+### Topics:
+ - topic 1
+ - topic 2
+ - topic 3
+### Messages:
+- Message 1
+- Message 2
 
 # Run the Script:
 
